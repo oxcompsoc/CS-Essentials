@@ -1,0 +1,221 @@
+Exercise 1.
+
+                                                       Third time’s the charm
+
+
+Try to reach me first                                                                                        Now try to reach me
+
+
+Exercise 3.1
+
+Theeere arre waay too manny lettters inn theese worrdds.
+
+There are way too many letters in these words.
+
+
+Exercise 3.2.1
+
+Now now there are are too too many words words.
+
+Now there are too many words.
+
+
+Exercise 3.2.2
+
+Mention: Delete the second repeating word.
+
+We will be be left with with too many many spaces.
+
+We will be  left with  too many  spaces.
+
+
+Exercise 3.3
+
+Who wrote the end to this sentence twice? To this sentence twice?
+
+Who wrote the end to this sentence twice?
+
+
+Exercise 3.4
+
+(1) Roses are red
+(1) Roses are red
+(2) Violets are blue
+(3) We learned to use Vim
+(3) We learned to use Vim
+(4) And now so will you.
+
+
+Exercise 3.5
+
+Please AA ABC clean DJE DEJYG SSSJ this sentence SAS SAB SSD DDD up.
+
+Please clean this sentence up.
+
+
+3.5 Note – navigating
+
+Here is a sentence for you to navigate through words.
+
+
+Exercise 4.1 
+
+Thee ae no enogh leters, wht languae ar yu speking?
+
+There are not enough letters, what language are you speaking?
+
+
+Exercise 4.2
+
+Reminder: You can use e to navigate to the end of the next unfinished word!
+
+This sent does hav finis wor!
+
+This sentence doesn’t have finished words!
+
+
+Exercise 4.3
+
+Hold on, this sentence isn’t fin
+
+Hold on, this sentence isn’t finished yet!
+
+
+Exercise 4.4
+- Use this sentence to place the cursor and open a new line before and after it and write something.
+Exercise 5.
+
+- Use x to correct the sentence
+
+- Use u to undo the last command
+
+- Use U to undo all changes made to the sentence
+
+- Use Ctrl + R to redo the commands (undo the undo’s)
+
+Correect thhee mistakkess thenn usse undoo to reeplace thhem.
+
+
+Exercise 6.
+
+Use the command to delete a line and the put command to put the sentences in the correct order.
+
+(1) Roses are red
+(3) We learned to use Vim
+(4) And now so will you.
+(2) Violets are blue
+
+
+Exercise 7.
+
+-Replace character by character in this sentence:
+
+Somabocy dossn’t knew haw to tyye!
+
+Somebody doesn’t know how to type!
+
+- Now try replacing more characters at a time:
+
+Somebody replaced wwww words ww here!
+
+Somebody replaced some words in here!
+
+
+Exercise 8.
+
+Serrby, wdef is wriging thede senxjeyfh??
+
+Seriously, who is writing these sentences??
+
+
+Exercise 9.
+
+Note: Read all the instructions before doing the exercise.
+
+- Find out what line you are at (and remember what it is)
+
+- Navigate to the bottom of the file
+
+- Navigate to the top of the file
+
+- Go back to the line you were at
+
+
+Exercise 10.
+
+- Search for the word ‘Exercise’
+
+- Find the word lower in the page and upper in the page
+
+- Move back and forth with Ctrl + O and Ctrl + I
+
+
+Exercise 11.1
+
+Tooo bee or not tooo bee
+
+To be or not to be
+
+
+Exercise 11.2
+
+- Use the substitute command to replace ‘Exercise’ in the whole file
+
+- Change it back to Exercise
+
+
+Exercise 12. 
+
+- Find the matches for all the parentheses:
+
+( where [ does ] ( this { parenthesis } ) end ? )
+
+
+Exercise 13.
+
+- See what files you have in the current directory (reminder: the command is ls)
+
+- Make a copy of the file and save it (reminder: use the :w name command)
+
+- Check again to see if the new file is there
+
+- Remove the copy (reminder: the command is rm)
+
+
+Exercise 14.
+
+- Delete some of the following lines using the visual mode
+
+who
+wrote
+so 
+many
+useless
+lines
+
+- Select the lines above (what’s left of them) and save them in a new file with the name NEW
+
+
+Exercise 15.
+
+- Place the text from the file NEW below:
+
+- Paste the list of files from your current directory here: (reminder: use the ls command)
+
+
+Exercise 16.
+
+Reminder: $ can be used to go to the end of the line.
+
+- Copy the sentence below on the other line:
+
+(1) Now there’s two of us!
+(2) 
+
+
+Exercise 17.
+
+- Type :help to check how help works
+
+- Try to see how r can be used
+
