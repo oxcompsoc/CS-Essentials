@@ -1,0 +1,24 @@
+@ARTICLE{vic,
+AUTHOR = {W. Vickrey},
+TITLE = {Counterspeculation, auctions and sealed tenders},
+JOURNAL = {Journal of Finance},
+YEAR = {1961},
+volume = {16},
+pages = {8--37},
+} 
+ 
+@BOOK{gol,
+AUTHOR = {M. C. Golumbic},
+TITLE = {Algorithmic Graph Theory and Perfect Graphs},
+PUBLISHER = {Elsevier Science},
+YEAR = {2004},
+edition = {2nd Edition},
+}
+
+@BOOK{none,
+AUTHOR = {ComSoc},
+TITLE = {CS Essentials},
+PUBLISHER = {Computer Science Department},
+YEAR = {2018},
+edition = {1st Edition},
+}
